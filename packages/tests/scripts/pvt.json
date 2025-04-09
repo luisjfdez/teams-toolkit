@@ -164,14 +164,12 @@
       "localdebug-chatdata-customapi-py-azureopenai",
       "localdebug-chatdata-customapi-py-openai",
       "testtooldebug-command-and-response",
-      "testtooldebug-msgsa",
       "localization-succeed",
       "samelevel-localization",
       "different-level-localization"
     ],
     "node-20": [
-      "obo-tab-ts",
-      "basic-bot-ts"
+      "testtooldebug-msgsa"
     ],
     "node-18": [      
       "remotedebug-spfx-publish",
@@ -184,7 +182,6 @@
   },
   "macos-latest": {
     "node-22": [
-      "localdebug-bot",
       "localdebug-command-and-response",
       "localdebug-notification-func",
       "localdebug-notification-express"
